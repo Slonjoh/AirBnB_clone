@@ -11,7 +11,7 @@
   font-size: 30px;
   padding-left: 20px;
   padding-top: 20px;
-  margin-bottom: 0px;
+  margin-bottom: 20px;
   flex: 0 1 100%;
 }
 
@@ -32,7 +32,7 @@ article h2 {
 }
 
 .price_by_night {
-  font-color: #ff5a5f;
+  color: #ff5a5f;
   border: 4px solid #ff5a5f;
   border-radius: 4px;
   min-width: 60px;
